@@ -3,5 +3,6 @@ body, html {
     margin: 0;
   }
 .head-font {
+    font-size: 60px;
     color: #fecd18;
 }
